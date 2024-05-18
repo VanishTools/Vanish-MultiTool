@@ -6,8 +6,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gekkefries&label=Profile%20views&color=0e75b6&style=flat" alt="gekkefries" />
-  <img src="https://komarev.com/ghpvc/?username=gekkefries&repo=vanish-multi-tool&label=Repository%20views&color=0e75b6&style=flat" alt="Repository views" />
-  <img alt="Stargazers" src="https://img.shields.io/github/stars/gekkefries/vanish-multi-tool?style=social">
+  <img src="https://komarev.com/ghpvc/?username=gekkefries&repo=vanish&label=Repository%20views&color=0e75b6&style=flat" alt="Repository views" />
 </p>
 
 - ✉️ SUPPORT [You can get support on Discord from .gekkefries1 or join the Discord server](https://discord.gg/vanishtool)
