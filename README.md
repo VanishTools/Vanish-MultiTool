@@ -23,5 +23,5 @@
 </div>
 
 <p align="center">
-  <img src="[URL_OF_YOUR_IMAGE](https://i.ibb.co/7KWnSSk/niggerrrr.png)" alt="Your image" style="width: 200px; height: auto;">
+  <img src="https://i.ibb.co/7KWnSSk/niggerrrr.png" alt="Your image" style="width: 200px; height: auto;">
 </p>
