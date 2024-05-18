@@ -23,5 +23,5 @@
 </div>
 
 <p align="center">
-  <img src="https://i.ibb.co/LpK1cNj/ellooo.png" alt="Your image" style="width: 700px; height: auto;">
+  <img src="https://i.ibb.co/LpK1cNj/ellooo.png" alt="Your image" style="width: 800px; height: auto;">
 </p>
