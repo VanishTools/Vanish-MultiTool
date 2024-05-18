@@ -11,6 +11,8 @@
 
 - ✉️ SUPPORT [You can get support on Discord from .gekkefries1 or join the Discord server](https://discord.gg/vanishtool)
 
+- ✨ Join the [Discord server](https://discord.gg/vanishtool)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.gg/vanishtool" target="_blank">
