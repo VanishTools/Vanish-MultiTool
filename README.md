@@ -4,19 +4,12 @@
   <img src="https://i.ibb.co/G0Qt99x/result-1.png" alt="Vanish tool image" />
 </p>
 
-<!-- Profile Views -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gekkefries&label=Profile%20views&color=0e75b6&style=flat" alt="gekkefries" /> 
-</p>
-
-<!-- Repository Stats -->
 <p align="left">
-  <a href="https://ghstats.com/github/gekkefries/Vanish" target="_blank">
-    <img src="https://ghstats.com/api?repo=gekkefries/Vanish&theme=dark" alt="Vanish stats" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=gekkefries&label=Profile%20views&color=0e75b6&style=flat" alt="gekkefries" />
+  <img src="https://komarev.com/ghpvc/?username=gekkefries&repo=vanish&label=Repository%20views&color=0e75b6&style=flat" alt="Repository views" />
 </p>
 
-- ✉️ SUPPORT [You can get support on Discord from.gekkefries1 or join the Discord server](https://discord.gg/vanishtool)
+- ✉️ SUPPORT [You can get support on Discord from .gekkefries1 or join the Discord server](https://discord.gg/vanishtool)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
